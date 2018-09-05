@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\bruno\desktop\cpp\roteiro 2\ex3\main.cpp
+	<iostream>
+
+1536100077 source:c:\users\bruno\desktop\cpp\roteiro 2\ex3\src\funcionario.cpp
+	"Funcionario.h"
+
+1536100891 c:\users\bruno\desktop\cpp\roteiro 2\ex3\include\funcionario.h
+	<string>
+
+1536100891 source:c:\users\bruno\desktop\cpp\roteiro 2\ex3\src\consultor.cpp
+	"Consultor.h"
+
+1536100891 c:\users\bruno\desktop\cpp\roteiro 2\ex3\include\consultor.h
+	<Funcionario.h>
+
